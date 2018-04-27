@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIGURACION>
+    <SERVIDOR>
+        <MULTICAST>230.0.0.1</MULTICAST>
+        <SERV>127.0.0.1</SERV>
+        <ESC>10000</ESC>
+    </SERVIDOR>
+  <ASIO>
+    <CANAL id="0">10001</CANAL>
+    <CANAL id="1">10002</CANAL>
+    <CANAL id="2">10003</CANAL>
+    <CANAL id="3">10004</CANAL>
+    <CANAL id="4">10005</CANAL>
+    <CANAL id="5">10006</CANAL>
+    <CANAL id="6">10007</CANAL>
+    <CANAL id="7">10008</CANAL>
+    <CANAL id="8">10009</CANAL>
+    <CANAL id="9">10010</CANAL>
+    <CANAL id="10">10011</CANAL>
+    <CANAL id="11">10012</CANAL>
+    <CANAL id="12">10013</CANAL>
+    <CANAL id="13">10014</CANAL>
+    <CANAL id="14">10015</CANAL>
+    <CANAL id="15">10016</CANAL>
+    <CANAL id="16">10017</CANAL>
+    <CANAL id="17">10018</CANAL>
+    <CANAL id="18">10019</CANAL>
+    <CANAL id="19">10020</CANAL>
+    <CANAL id="20">10021</CANAL>
+    <CANAL id="21">10022</CANAL>
+    <CANAL id="22">10023</CANAL>
+    <CANAL id="23">10024</CANAL>
+    <CANAL id="24">10025</CANAL>
+    <CANAL id="25">10026</CANAL>
+    <CANAL id="26">10027</CANAL>
+    <CANAL id="27">10028</CANAL>
+    <CANAL id="28">10029</CANAL>
+    <CANAL id="29">10030</CANAL>
+    <CANAL id="30">10031</CANAL>
+    <CANAL id="31">10032</CANAL>
+
+<FRECUENCIA>48000</FRECUENCIA>
+<MUESTRA>128</MUESTRA>
+    
+ </ASIO>
+</CONFIGURACION>
